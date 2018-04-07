@@ -17,8 +17,8 @@ export default class AppFooter extends Component {
 }
 
 const footerStyle = {
+    display: 'flex',    
     height: '60px',
-    display: 'flex',
     alignItems: 'center',
     justifyContent: ' space-evenly',
     borderTop: '1px solid #ccc',
